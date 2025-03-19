@@ -1,3 +1,1 @@
-Work on Weateer app 
-
-fetch 5 day feather forcating 
+Work on the Weather app. Fetch 5-day weather forecasting
